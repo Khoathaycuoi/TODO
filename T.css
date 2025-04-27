@@ -40,6 +40,6 @@ h1 {
   padding-top: 10px;
 }
 .completed {
-  text-decoration: line-through; /* Gạch ngang chữ */
-  opacity: 0.6; /* Làm chữ mờ hơn chút cho dễ nhìn */
+  text-decoration: line-through;
+  opacity: 0.6;
 }
